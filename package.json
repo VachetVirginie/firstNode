@@ -1,0 +1,29 @@
+{
+  "name": "firstnode",
+  "version": "0.0.1",
+  "description": "first Node.js project with Simplon.co Lyon's promo 3",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VachetVirginie/firstNode.git"
+  },
+  "keywords": [
+    "Simplon.co",
+    "Node.js"
+  ],
+  "author": "Virginie Vachet <vachetvirginie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VachetVirginie/firstNode/issues"
+  },
+  "homepage": "https://github.com/VachetVirginie/firstNode#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "my": "^0.3.3",
+    "mysql": "^2.14.1",
+    "sql": "^0.78.0"
+  }
+}
